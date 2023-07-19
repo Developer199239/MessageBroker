@@ -1,0 +1,1 @@
+g++ -o main main.cpp message_broker.cpp -lsqlite3
